@@ -5,4 +5,4 @@
 - Board: STM32F103C8T6 Bluepill
 - Program: Send data to Thingspeak using ESP01
 
-Code based on source by Oguzhanbaser
+Code based on source by [Github repo from Oguzhanbaser](https://github.com/oguzhanbaser/stm32Workspace/tree/master/f103-DHT11-Thinkspeak)
